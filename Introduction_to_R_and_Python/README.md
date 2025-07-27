@@ -1,4 +1,6 @@
-# 🐍 Python vs. 🧮 R  
+# <img width="920" height="512" alt="image" src="https://github.com/user-attachments/assets/1da106af-acf8-44fc-b167-d558cb759acd" />
+ Python vs. <img width="724" height="561" alt="image" src="https://github.com/user-attachments/assets/6d625420-330b-4d62-8cce-b35eebef5c48" />
+ R  
 ### A Guide for Environmental Scientists
 
 In this course, **you are free to choose either R or Python** — both are powerful and widely used in environmental data analysis, modeling, and visualization.
