@@ -1,4 +1,4 @@
-# <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50"/> vs <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40"/>  
+# <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100"/> vs <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60"/>  
 ### A Guide for Environmental Scientists
 
 
