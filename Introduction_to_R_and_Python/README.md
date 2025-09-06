@@ -22,7 +22,9 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 - Based on **S**, a statistical language from Bell Laboratories (1970s).
 - Originally designed for **academic statisticians**, R is now the default tool in many scientific disciplines.
 Here are some papers from the authors about R:
+
 :page_facing_up: [**Ross Ihaka** and **Robert Gentleman**: *R: A Language for Data Analysis and Graphics*](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf)
+
 :page_facing_up: **Ross Ihaka**: *R : Past and Future History* (https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf)
 
 
