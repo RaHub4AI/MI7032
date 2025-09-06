@@ -54,15 +54,10 @@ Click on the links for each week to access lecture notes, code, and homework ass
 **Level:** Advanced (A1N)  
 **Assessment:**
 - **Part 1 (5 ECTS):** Data Analysis Tools – assessed via lab reports.
-- **Part 2 (2.5 ECTS):** Problem Solving – assessed via written exam.
+- **Part 2 (2.5 ECTS):** Problem Solving – assessed via take-home exam.
 - Grading scale: A, B, C, D, E, Fx, F.
 
 For full syllabus details, see the [official course page]([https://www.su.se](https://albatross.it.su.se/api/education/educationplan/pdf/MI7032/HT2025)).
 
----
 
-## 💻 Requirements
-- Laptop with R and Python installed.
-- Recommended editors: **RStudio** (for R) and **VS Code**/**Jupyter Notebook** (for Python).
-- Internet connection for downloading datasets and packages.
 
