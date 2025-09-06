@@ -20,9 +20,9 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 **Videos**
 
 <img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**RichardOnData**: *R or Python: Which Should You Learn in 2024?*](https://www.youtube.com/watch?v=AexVDfAueGQ)
-- **R Programming 101** — **R vs Python** (YouTube)
-  Short video comparison; good for a fast take.  
-  https://www.youtube.com/watch?v=rMT8NaDcIq0
+
+<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**R Programming 101**: *R vs Python*](https://www.youtube.com/watch?v=rMT8NaDcIq0)
+
 
 **Articles & blog posts**
 - **GeeksforGeeks — “R vs Python”**  
