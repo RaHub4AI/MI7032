@@ -44,7 +44,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 ## 🔍 Feature Comparison
 
-| Feature/Domain         | Python <img width="15" alt="py" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" />                         | R 🧮                               |
+| Feature/Domain         |<img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />                         | R 🧮                               |
 |------------------------|----------------------------------|------------------------------------|
 | Data analysis          | ✅ Yes (`pandas`, `numpy`)        | ✅ Yes (built-in, `dplyr`, `tidyverse`) |
 | Visualization          | Strong (`matplotlib`, `seaborn`) | Very strong (`ggplot2`, `plotly`) |
