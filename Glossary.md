@@ -243,8 +243,8 @@ An *F*-test is used to test if the variances of two populations are equal. This 
 #### Gaussian distribution
 The Gaussian distribution, or normal distribution, is a symmetric, bell-shaped probability distribution centered around the mean, with spread determined by the standard deviation.
 
-#### Goodness of fit
-Goodness of fit tests assess how well a statistical model or distribution matches the observed data.
+#### Goodness-of-fit
+Goodness-of-fit tests assess how well a statistical model or distribution matches the observed data.
 
 #### Greedy algorithms
 A greedy algorithm makes the locally optimal choice at each step with the hope of finding a global optimum, though it does not always guarantee the best overall solution.
@@ -284,6 +284,9 @@ A hypothesis is a proposed explanation or assumption made on the basis of limite
 
 <summary>I</summary>
 
+#### IDE
+An IDE (Integrated Development Environment) is software that combines commonly used developer tools into a compact GUI (graphical user interface) application. It is a combination of tools like a code editor, code compiler, and code debugger with an integrated terminal.
+
 #### Imputation
 Missing Value Imputation is the process of replacing missing data with substituted values to improve dataset completeness for analysis and modeling.
 
@@ -318,6 +321,9 @@ Joint probability is the probability of two or more events occurring simultaneou
 <details>
 
 <summary>K</summary>
+
+#### Kernel
+A kernel is the essential foundation of a computer's operating system (OS). It's the core that provides basic services for all other parts of the OS. It's the main layer between the OS and underlying computer hardware, and it helps with tasks such as process and memory management, inter-process communication, file system management, device control and networking.
 
 #### *K*-means
 *K*-means clustering partitions data into *K* distinct clusters by iteratively updating cluster centroids until convergence.
