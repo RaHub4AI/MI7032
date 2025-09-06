@@ -28,9 +28,9 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 <img alt="GG" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="15" /> [*R vs Python*](https://www.geeksforgeeks.org/python/r-vs-python/)
 
-<img alt="Medium" src="https://images.seeklogo.com/logo-png/34/1/medium-logo-png_seeklogo-347160.png" width="15" /> [**Kenny William**: *R vs Python: Let’s Settle This with Data!*](https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f)
+<img alt="Medium" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyyHXgvbYgVysw0TVvhoi3Zn4cbfYzrXYSHvK8u7aGfPqnlzgW6OXXQX-Dyclke9DVi4&usqp=CAU" width="15" /> [**Kenny William**: *R vs Python: Let’s Settle This with Data!*](https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f)
 
-<img alt="Dataquest" src="https://www.dataquest.io/wp-content/uploads/2023/02/DQ-Logo.svg" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
+<img alt="Dataquest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTm75k-qho345hw1Ccc_0FgCl7pxT6FoK6w&s" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
 
 
 - **Dataquest — “R vs Python for Data Science”**  
