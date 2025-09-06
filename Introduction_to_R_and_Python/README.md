@@ -17,7 +17,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ---
 ## Origins & History
 
-### R: built for statisticians
+### <img width="50" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />: built for statisticians
 - Developed in the **early 1990s** by [**Ross Ihaka**](https://en.wikipedia.org/wiki/Ross_Ihaka) and [**Robert Gentleman**](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) at the University of Auckland.
 - Inspired by **S**, the statistical language created at Bell Labs in the 1970s.
 - Designed first for **academic statisticians**; today it’s a go-to tool across many scientific disciplines.
@@ -31,7 +31,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 ---
 
-### Python: general-purpose language
+### <img width="50" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />: general-purpose language
 - Started by [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) (webpage: https://gvanrossum.github.io/) in **1989** (famously as a holiday project).
 - Named after *Monty Python’s Flying Circus*, not the snake.
 - Began as a **general-purpose** language focused on readability; later exploded in web, AI/ML, and data science thanks to its rich ecosystem.
