@@ -18,10 +18,13 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ##  Origins & History
 
 ### **R: Built for Statisticians**
-- Developed in the **early 1990s** by **Ross Ihaka and Robert Gentleman** at the University of Auckland.
-- Based on **S**, a statistical language from Bell Labs (1970s).
+- Developed in the **early 1990s** by [**Ross Ihaka**](https://en.wikipedia.org/wiki/Ross_Ihaka) and [**Robert Gentleman**](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) at the University of Auckland.
+- Based on **S**, a statistical language from Bell Laboratories (1970s).
 - Originally designed for **academic statisticians**, R is now the default tool in many scientific disciplines.
-- 📎 [https://cran.r-project.org](https://cran.r-project.org)
+Here are some papers from the authors about R:
+:page_facing_up: [**Ross Ihaka** and **Robert Gentleman**: *R: A Language for Data Analysis and Graphics*](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf)
+:page_facing_up: **Ross Ihaka**: *R : Past and Future History* (https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf)
+
 
 ### **Python: General-Purpose to Data Science Giant**
 - Created in **1991** by **Guido van Rossum** in the Netherlands.
