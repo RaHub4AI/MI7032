@@ -1,5 +1,4 @@
 # Environmental Data Science Glossary
-
 This glossary collects key terms and definitions that will be useful throughout this course.  
 It is designed as a quick reference to help you understand core concepts in **programming** and **statistics**.
 ---
