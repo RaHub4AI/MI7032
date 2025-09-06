@@ -5,6 +5,23 @@
 > **Also you:** *opens two terminals and three notebooks*
 
 ---
+Pattern 1 — Collapsible toggles (recommended)
+Load core packages (default: R open)
+<details open> <summary><strong>R</strong></summary>
+# Core vector & attribute data tools
+library(sf)
+library(tidyverse)
+library(tmap)       # or tmap/viz alternatives like ggplot2 + geom_sf()
+
+</details> <details> <summary><strong>Python</strong></summary>
+# Core vector & attribute data tools
+import pandas as pd
+import geopandas as gpd
+from shapely.geometry import Point  # geometry constructors
+# (Optional) visualization: matplotlib, contextily, folium/leafmap
+
+</details>
+
 
 ## Why these two?
 
