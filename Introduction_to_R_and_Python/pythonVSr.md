@@ -5,21 +5,37 @@
 > **Also you:** *opens two terminals and three notebooks*
 
 ---
-Pattern 1 — Collapsible toggles (recommended)
-Load core packages (default: R open)
-<details open> <summary><strong>R</strong></summary>
-# Core vector & attribute data tools
-library(sf)
-library(tidyverse)
-library(tmap)       # or tmap/viz alternatives like ggplot2 + geom_sf()
+# Parallel R & Python “Shells”
 
+Below, each topic has a short explanation followed by two code shells:
+- **R** (open by default)
+- **Python** (expand to view)
+
+---
+
+## 1) Load core packages
+
+We will start by loading core packages for working with geographic vector and attribute data.
+
+<details open>
+<summary><strong>R</strong></summary>
+
+```r
+# Core vector & attribute data tools
+library(tidyverse)  # readr, dplyr, tidyr, ggplot2, ...
+library(sf)         # vector geospatial
+library(terra)      # raster geospatial (alternative: stars)
+library(plotly)     # interactive plots
 </details> <details> <summary><strong>Python</strong></summary>
+python
+Kopeeri kood
 # Core vector & attribute data tools
 import pandas as pd
+import numpy as np
 import geopandas as gpd
-from shapely.geometry import Point  # geometry constructors
-# (Optional) visualization: matplotlib, contextily, folium/leafmap
-
+from shapely.geometry import Point
+import matplotlib.pyplot as plt
+import plotly.express as px
 </details>
 
 
