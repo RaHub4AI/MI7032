@@ -1,14 +1,22 @@
 # <img width="4831" height="1350" alt="BANNER" src="https://github.com/user-attachments/assets/58f4cd8b-ea72-47c8-92ca-6304c3d325ca" />
-### A Guide for Environmental Scientists
+### A Guide for Environmental Data Scientists
 
+The internet is full of blog posts, videos, and forum threads debating which language to use for data science: `R` or `Python`.
+You’ll find a few curated links at the end of this document under [What others think: Python or R?](#what-others-think-python-or-r). 
+In this document, I’ve also gathered some background, key facts, and the main strengths and trade-offs for both.
 
-In this course, **you are free to choose either R or Python** — both are powerful and widely used in environmental data analysis, modeling, and visualization.
+In this course, you’re free to use either **`R`** or **`Python`**. 
+Both are powerful and widely used for environmental data analysis, modeling, and visualization.
+Before you decide (by the way, you’re also allowed to use both if you want), we’ll use the first two days of the course to cover the ABCs in each language so you can test-drive them and see which feels right.
 
-This document helps you understand the background, strengths, and typical use cases of each language so you can make an informed decision.
-
+And if you care about my opinion: an **exceptional environmental data scientist** benefits from knowing **both**.
+If you have the time, I fully support learning both. 
+You’ll see plenty of shared concepts, and once the programming fundamentals click, switching between them isn’t that hard. 
+At a minimum, aim to **learn the one most common in your subfield**. You’ll get a feel for that during your thesis and courses by watching what researchers actually use.
 ---
+## What others think: Python or R?
 
-## 🔹 Origins & History
+##  Origins & History
 
 ### **R: Built for Statisticians**
 - Developed in the **early 1990s** by **Ross Ihaka and Robert Gentleman** at the University of Auckland.
