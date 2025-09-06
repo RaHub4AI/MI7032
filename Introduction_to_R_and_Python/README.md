@@ -3,7 +3,7 @@
 
 The internet is full of blog posts, videos, and forum threads debating which language to use for data science: `R` or `Python`.
 You’ll find a few curated links at the end of this document under [What others think: Python or R?](#what-others-think-python-or-r). 
-In this document, I’ve also gathered some background, key facts, and the main strengths and trade-offs for both.
+(This document also covers some background, key facts, and the main strengths and trade-offs for both.)
 
 In this course, you’re free to use either **`R`** or **`Python`**. 
 Both are powerful and widely used for environmental data analysis, modeling, and visualization.
