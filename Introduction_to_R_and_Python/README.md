@@ -15,24 +15,30 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 
 ---
-##  Origins & History
+## Origins & History
 
-### **R: Built for Statisticians**
+### R: built for statisticians
 - Developed in the **early 1990s** by [**Ross Ihaka**](https://en.wikipedia.org/wiki/Ross_Ihaka) and [**Robert Gentleman**](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) at the University of Auckland.
-- Based on **S**, a statistical language from Bell Laboratories (1970s).
-- Originally designed for **academic statisticians**, R is now the default tool in many scientific disciplines.
-Here are some papers from the authors about R:
+- Inspired by **S**, the statistical language created at Bell Labs in the 1970s.
+- Designed first for **academic statisticians**; today it’s a go-to tool across many scientific disciplines.
 
-:page_facing_up: [**Ross Ihaka** and **Robert Gentleman**: *R: A Language for Data Analysis and Graphics*](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf)
+**Foundational papers**
 
-:page_facing_up: **Ross Ihaka**: *R : Past and Future History* (https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf)
+📄 [**Ihaka & Gentleman**: *R: A Language for Data Analysis and Graphics*](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf)
 
+📄 [**Ross Ihaka**: *R: Past and Future History*](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf)
 
-### **Python: General-Purpose to Data Science Giant**
-- Created in **1991** by **Guido van Rossum** in the Netherlands.
-- Named after *Monty Python's Flying Circus* 🎭 — not the snake!
-- Originally a general-purpose language, Python exploded in popularity due to its readability and use in web, AI, and data science.
-- 📎 [https://www.python.org](https://www.python.org)
+---
+
+### Python: general-purpose language
+- Started by [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) (webpage: https://gvanrossum.github.io/) in **1989** (famously as a holiday project).
+- Named after *Monty Python’s Flying Circus*, not the snake.
+- Began as a **general-purpose** language focused on readability; later exploded in web, AI/ML, and data science thanks to its rich ecosystem (NumPy, pandas, SciPy, scikit-learn, PyTorch, etc.).
+- Today, Python **consistently ranks at or near the top** of programming-language popularity indices.
+
+**Further reading**
+
+📄 Python history overview: https://www.python.org/doc/essays/
 
 ---
 
