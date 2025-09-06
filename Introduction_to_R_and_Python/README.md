@@ -13,6 +13,7 @@ And if you care about my opinion: an **exceptional environmental data scientist*
 If you have the time, I fully support learning both. 
 You’ll see plenty of shared concepts, and once the programming fundamentals click, switching between them isn’t that hard. 
 At a minimum, aim to **learn the one most common in your subfield**. You’ll get a feel for that during your thesis and courses by watching what researchers actually use.
+
 ---
 ## What others think: Python or R?
 
