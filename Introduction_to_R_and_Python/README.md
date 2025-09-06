@@ -45,7 +45,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ---
 ## Feature Comparison
 
-| Aspect | <img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> | <img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> |
+| Aspect | <img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> | <img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> |
 |---|---|---|
 | **Primary Objective** | Data analysis and statistics | General-purpose language with strong support for data science & ML |
 | **Primary Users** | Statisticians, researchers | Programmers, developers, professionals in many fields (including researchers) |
