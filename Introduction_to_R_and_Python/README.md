@@ -15,28 +15,6 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 
 ---
-## What others think: Python or R?
-
-**Videos**
-
-<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**RichardOnData**: *R or Python: Which Should You Learn in 2024?*](https://www.youtube.com/watch?v=AexVDfAueGQ)
-
-<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**R Programming 101**: *R vs Python*](https://www.youtube.com/watch?v=rMT8NaDcIq0)
-
-
-**Articles & blog posts**
-
-<img alt="GG" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="15" /> [*R vs Python*](https://www.geeksforgeeks.org/python/r-vs-python/)
-
-<img alt="Medium" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyyHXgvbYgVysw0TVvhoi3Zn4cbfYzrXYSHvK8u7aGfPqnlzgW6OXXQX-Dyclke9DVi4&usqp=CAU" width="15" /> [**Kenny William**: *R vs Python: Let’s Settle This with Data!*](https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f)
-
-<img alt="Dataquest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTm75k-qho345hw1Ccc_0FgCl7pxT6FoK6w&s" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
-
-
-- **Dataquest — “R vs Python for Data Science”**  
-  Balanced overview with guidance by goals (stats, ML, careers).  
-  https://www.dataquest.io/blog/python-vs-r/
-
 ##  Origins & History
 
 ### **R: Built for Statisticians**
@@ -122,6 +100,28 @@ Choose **Python** if:
 - You want to dive into AI, APIs, and earth observation data tools
 
 ---
+## What others think: Python or R?
+
+**Videos**
+
+<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**RichardOnData**: *R or Python: Which Should You Learn in 2024?*](https://www.youtube.com/watch?v=AexVDfAueGQ)
+
+<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**R Programming 101**: *R vs Python*](https://www.youtube.com/watch?v=rMT8NaDcIq0)
+
+
+**Articles & blog posts**
+
+<img alt="GG" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="15" /> [*R vs Python*](https://www.geeksforgeeks.org/python/r-vs-python/)
+
+<img alt="Medium" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyyHXgvbYgVysw0TVvhoi3Zn4cbfYzrXYSHvK8u7aGfPqnlzgW6OXXQX-Dyclke9DVi4&usqp=CAU" width="15" /> [**Kenny William**: *R vs Python: Let’s Settle This with Data!*](https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f)
+
+<img alt="Dataquest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTm75k-qho345hw1Ccc_0FgCl7pxT6FoK6w&s" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
+
+
+
+
+
+
 
 ## 📎 References
 
