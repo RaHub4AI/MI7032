@@ -1,21 +1,40 @@
 # <img width="4831" height="1350" alt="BANNER" src="https://github.com/user-attachments/assets/58f4cd8b-ea72-47c8-92ca-6304c3d325ca" />
-### A Guide for Environmental Data Scientists
+### R or Python?
 
-The internet is full of blog posts, videos, and forum threads debating which language to use for data science: `R` or `Python`.
-You’ll find a few curated links at the end of this document under [What others think: Python or R?](#what-others-think-python-or-r). 
-(This document also covers some background, key facts, and the main strengths and trade-offs for both.)
+If you want opinions, the internet is full of blog posts, videos, and forum threads debating which language to use for data science: `R` or `Python` (a few curated links: [What others think: Python or R?](#what-others-think-python-or-r))
+Additionally, this document covers some background, key facts, and the main strengths and trade-offs for both.
 
-In this course, you’re free to use either **`R`** or **`Python`**. 
+However, in this course, you’re free to use either **`R`** or **`Python`**. 
 Both are powerful and widely used for environmental data analysis, modeling, and visualization.
-Before you decide (by the way, you’re also allowed to use both if you want), we’ll use the first two days of the course to cover the ABCs in each language so you can test-drive them and see which feels right.
+Before you decide (and yes, you can use both), we’ll spend the first two days covering the ABCs of each language so you can test-drive them and see which feels right.
 
 And if you care about my opinion: an **exceptional environmental data scientist** benefits from knowing **both**.
 If you have the time, I fully support learning both. 
 You’ll see plenty of shared concepts, and once the programming fundamentals click, switching between them isn’t that hard. 
-At a minimum, aim to **learn the one most common in your subfield**. You’ll get a feel for that during your thesis and courses by watching what researchers actually use.
+At a minimum, aim to **learn the one most common in your subfield**. You’ll get a feel for that during your thesis project and courses by watching what researchers actually use.
+
 
 ---
 ## What others think: Python or R?
+
+**Videos**
+- **Richard on Data — “R vs Python for Data Science” (YouTube)**  
+  Quick, opinionated rundown aimed at practitioners.  
+  https://www.youtube.com/watch?v=AexVDfAueGQ
+- **R vs Python (YouTube)**  
+  Short video comparison; good for a fast take.  
+  https://www.youtube.com/watch?v=rMT8NaDcIq0
+
+**Articles & blog posts**
+- **GeeksforGeeks — “R vs Python”**  
+  High-level, checklist-style comparison (pros/cons, use cases, syntax samples).  
+  https://www.geeksforgeeks.org/python/r-vs-python/
+- **Medium (Kenny William) — “R vs Python: Let’s Settle This with Data”**  
+  Data-driven look at adoption and ecosystem signals.  
+  https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f
+- **Dataquest — “R vs Python for Data Science”**  
+  Balanced overview with guidance by goals (stats, ML, careers).  
+  https://www.dataquest.io/blog/python-vs-r/
 
 ##  Origins & History
 
