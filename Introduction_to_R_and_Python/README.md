@@ -18,8 +18,8 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ## What others think: Python or R?
 
 **Videos**
-- **Richard on Data — “R vs Python for Data Science”**  <img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="12" />
-  Quick, opinionated rundown aimed at practitioners.  
+<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> **Richard on Data — “R vs Python for Data Science”**  
+
   https://www.youtube.com/watch?v=AexVDfAueGQ
 - **R Programming 101** — **R vs Python** (YouTube)
   Short video comparison; good for a fast take.  
