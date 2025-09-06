@@ -41,8 +41,32 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 📄 Python history overview: https://www.python.org/doc/essays/
 
 ---
+## Feature Comparison
 
-## 🔍 Feature Comparison
+## R vs Python — quick comparison for environmental data science
+
+| Aspect |<img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />|<img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />|
+|---|---|---|
+| **Origin & focus** | Built for **statistics** & graphics (academia roots). | Built as a **general-purpose** language; later a data/ML powerhouse. |
+| **Learning curve** | Very fast to first **stats/plots**; tidyverse is intuitive for analysis. | Gentle, consistent **syntax**; great for broader programming tasks. |
+| **Data wrangling** | **tidyverse** (`dplyr`, `tidyr`, `readr`) promotes literate, chainable workflows. | **pandas** (and **polars**) are standard; integrates well with Python ecosystem. |
+| **Visualization** | **ggplot2** grammar of graphics; **plotly** for interactivity; **tmap** for maps. | **matplotlib**, **seaborn**, **plotly**, **bokeh**; rich interactive/dashboard options. |
+| **Geospatial** | **sf**, **terra**/`raster`, **stars**, **tmap`; strong spatial stats packages. | **geopandas**, **rasterio**, **rioxarray**, **pyproj**, **xarray**; excellent for pipelines. |
+| **Large arrays & climate** | `terra`/`stars` work well; less common for huge, chunked arrays. | **xarray + dask** shine for NetCDF/GRIB and chunked climate data. |
+| **Statistics** | Deep, idiomatic stats; huge CRAN coverage; many niche methods. | Strong via **SciPy**, **statsmodels**; lots of tutorials but less “built-in stats culture.” |
+| **Machine learning** | **caret**, **tidymodels** unify modeling; good yet smaller ecosystem. | **scikit-learn**, **PyTorch**, **TensorFlow**; dominant for ML/AI. |
+| **Reproducibility** | **R Markdown / Quarto**, **renv**, RStudio Projects. | **Jupyter / Quarto**, **conda/pip**, Docker, CI; smooth with cloud tools. |
+| **Notebooks & reports** | R Markdown/Quarto = polished, publication-ready PDFs/HTML. | Jupyter/Quarto great for notebooks; many reporting/tooling options. |
+| **Package mgmt** | **renv** (per-project lock), CRAN/Bioc/posit package infra. | **conda**/**mamba** or **pip** + `requirements.txt`/`pyproject.toml`. |
+| **IDEs** | **RStudio** (Posit) is best-in-class for R; VS Code also good. | **VS Code**, **JupyterLab**, PyCharm; Colab for zero-install. |
+| **Cloud & pipelines** | Possible (targets, RStudio Server, Posit Workbench). | Very strong: Airflow/Prefect, serverless, APIs, containers, Colab. |
+| **Interoperability** | Call Python with **reticulate**; export via Parquet/Feather/GeoPackage. | Call R with **rpy2**; same open formats for clean hand-off. |
+| **Community footprint** | Huge in academia, ecology, biostats, reproducible reporting. | Huge across industry, ML/AI, data engineering, geospatial ops. |
+| **Typical env-sci use** | Exploratory analysis, stats, publication-quality figures, spatial stats. | Data ingestion/ETL, big climate arrays, ML, scalable geospatial workflows. |
+| **When to choose** | You need fast stats/plots and polished reports; team uses R. | You need ML, large-scale pipelines, or broad integration beyond analysis. |
+| **Common pitfalls** | System deps for spatial (GDAL/PROJ) can be tricky; less suited for APIs. | Plot defaults need tweaking; some stats workflows feel less “native.” |
+| **Bottom line** | Best for **analysis & communication**; great spatial/stats ecosystem. | Best for **end-to-end pipelines & ML**; excellent cloud/geospatial tooling. |
+
 
 | Feature/Domain         |<img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />| <img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />|
 |------------------------|----------------------------------|------------------------------------|
