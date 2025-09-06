@@ -25,12 +25,14 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 
 
 **Articles & blog posts**
-- **GeeksforGeeks — “R vs Python”**  
-  High-level, checklist-style comparison (pros/cons, use cases, syntax samples).  
-  https://www.geeksforgeeks.org/python/r-vs-python/
-- **Medium (Kenny William) — “R vs Python: Let’s Settle This with Data”**  
-  Data-driven look at adoption and ecosystem signals.  
-  https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f
+
+<img alt="GG" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="15" /> [*R vs Python*](https://www.geeksforgeeks.org/python/r-vs-python/)
+
+<img alt="Medium" src="https://images.seeklogo.com/logo-png/34/1/medium-logo-png_seeklogo-347160.png" width="15" /> [**Kenny William**: *R vs Python: Let’s Settle This with Data!*](https://medium.com/@k3nnywilliam/r-vs-python-lets-settle-this-with-data-837ad273747f)
+
+<img alt="Dataquest" src="https://www.dataquest.io/wp-content/uploads/2023/02/DQ-Logo.svg" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
+
+
 - **Dataquest — “R vs Python for Data Science”**  
   Balanced overview with guidance by goals (stats, ML, careers).  
   https://www.dataquest.io/blog/python-vs-r/
