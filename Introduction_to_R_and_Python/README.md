@@ -34,7 +34,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ### Python: general-purpose language
 - Started by [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) (webpage: https://gvanrossum.github.io/) in **1989** (famously as a holiday project).
 - Named after *Monty Python’s Flying Circus*, not the snake.
-- Began as a **general-purpose** language focused on readability; later exploded in web, AI/ML, and data science thanks to its rich ecosystem (NumPy, pandas, SciPy, scikit-learn, PyTorch, etc.).
+- Began as a **general-purpose** language focused on readability; later exploded in web, AI/ML, and data science thanks to its rich ecosystem.
 - Today, Python **consistently ranks at or near the top** of programming-language popularity indices (https://www.tiobe.com/tiobe-index/, https://pypl.github.io/PYPL.html, https://survey.stackoverflow.co/2025/technology).
 - 665,810 packages on [PyPI](https://pypi.org)
 
