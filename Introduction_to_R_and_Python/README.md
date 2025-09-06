@@ -21,6 +21,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 - Developed in the **early 1990s** by [**Ross Ihaka**](https://en.wikipedia.org/wiki/Ross_Ihaka) and [**Robert Gentleman**](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) at the University of Auckland.
 - Inspired by **S**, the statistical language created at Bell Labs in the 1970s.
 - Designed first for **academic statisticians**; today it’s a go-to tool across many scientific disciplines.
+- 22,676 packages on [CRAN](https://cran.r-project.org/web/packages/)
 
 **Foundational papers**
 
@@ -34,7 +35,8 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 - Started by [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) (webpage: https://gvanrossum.github.io/) in **1989** (famously as a holiday project).
 - Named after *Monty Python’s Flying Circus*, not the snake.
 - Began as a **general-purpose** language focused on readability; later exploded in web, AI/ML, and data science thanks to its rich ecosystem (NumPy, pandas, SciPy, scikit-learn, PyTorch, etc.).
-- Today, Python **consistently ranks at or near the top** of programming-language popularity indices.
+- Today, Python **consistently ranks at or near the top** of programming-language popularity indices (https://www.tiobe.com/tiobe-index/, https://pypl.github.io/PYPL.html, https://survey.stackoverflow.co/2025/technology).
+- 665,810 packages on [PyPI](https://pypi.org)
 
 **Further reading**
 
@@ -43,101 +45,27 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 ---
 ## Feature Comparison
 
-## R vs Python — quick comparison for environmental data science
-
-| Aspect |<img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />|<img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />|
+| Aspect | <img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> | <img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> |
 |---|---|---|
-| **Origin & focus** | Built for **statistics** & graphics (academia roots). | Built as a **general-purpose** language; later a data/ML powerhouse. |
-| **Learning curve** | Very fast to first **stats/plots**; tidyverse is intuitive for analysis. | Gentle, consistent **syntax**; great for broader programming tasks. |
-| **Data wrangling** | **tidyverse** (`dplyr`, `tidyr`, `readr`) promotes literate, chainable workflows. | **pandas** (and **polars**) are standard; integrates well with Python ecosystem. |
-| **Visualization** | **ggplot2** grammar of graphics; **plotly** for interactivity; **tmap** for maps. | **matplotlib**, **seaborn**, **plotly**, **bokeh**; rich interactive/dashboard options. |
-| **Geospatial** | **sf**, **terra**/`raster`, **stars**, **tmap`; strong spatial stats packages. | **geopandas**, **rasterio**, **rioxarray**, **pyproj**, **xarray**; excellent for pipelines. |
-| **Large arrays & climate** | `terra`/`stars` work well; less common for huge, chunked arrays. | **xarray + dask** shine for NetCDF/GRIB and chunked climate data. |
-| **Statistics** | Deep, idiomatic stats; huge CRAN coverage; many niche methods. | Strong via **SciPy**, **statsmodels**; lots of tutorials but less “built-in stats culture.” |
-| **Machine learning** | **caret**, **tidymodels** unify modeling; good yet smaller ecosystem. | **scikit-learn**, **PyTorch**, **TensorFlow**; dominant for ML/AI. |
-| **Reproducibility** | **R Markdown / Quarto**, **renv**, RStudio Projects. | **Jupyter / Quarto**, **conda/pip**, Docker, CI; smooth with cloud tools. |
-| **Notebooks & reports** | R Markdown/Quarto = polished, publication-ready PDFs/HTML. | Jupyter/Quarto great for notebooks; many reporting/tooling options. |
-| **Package mgmt** | **renv** (per-project lock), CRAN/Bioc/posit package infra. | **conda**/**mamba** or **pip** + `requirements.txt`/`pyproject.toml`. |
-| **IDEs** | **RStudio** (Posit) is best-in-class for R; VS Code also good. | **VS Code**, **JupyterLab**, PyCharm; Colab for zero-install. |
-| **Cloud & pipelines** | Possible (targets, RStudio Server, Posit Workbench). | Very strong: Airflow/Prefect, serverless, APIs, containers, Colab. |
-| **Interoperability** | Call Python with **reticulate**; export via Parquet/Feather/GeoPackage. | Call R with **rpy2**; same open formats for clean hand-off. |
-| **Community footprint** | Huge in academia, ecology, biostats, reproducible reporting. | Huge across industry, ML/AI, data engineering, geospatial ops. |
-| **Typical env-sci use** | Exploratory analysis, stats, publication-quality figures, spatial stats. | Data ingestion/ETL, big climate arrays, ML, scalable geospatial workflows. |
-| **When to choose** | You need fast stats/plots and polished reports; team uses R. | You need ML, large-scale pipelines, or broad integration beyond analysis. |
-| **Common pitfalls** | System deps for spatial (GDAL/PROJ) can be tricky; less suited for APIs. | Plot defaults need tweaking; some stats workflows feel less “native.” |
-| **Bottom line** | Best for **analysis & communication**; great spatial/stats ecosystem. | Best for **end-to-end pipelines & ML**; excellent cloud/geospatial tooling. |
-
-
-| Feature/Domain         |<img width="30" alt="py" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />| <img width="30" alt="r" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />|
-|------------------------|----------------------------------|------------------------------------|
-| Data analysis          | ✅ Yes (`pandas`, `numpy`)        | ✅ Yes (built-in, `dplyr`, `tidyverse`) |
-| Visualization          | Strong (`matplotlib`, `seaborn`) | Very strong (`ggplot2`, `plotly`) |
-| Statistics             | Decent (`scipy`, `statsmodels`)  | Excellent (core strength)         |
-| Machine learning       | Industry standard (`scikit-learn`, `TensorFlow`) | Growing support (`caret`, `mlr3`) |
-| Reproducible reports   | Jupyter, Sphinx, nbconvert        | RMarkdown, Quarto                 |
-| Dashboards             | Streamlit, Dash                  | Shiny                             |
-| Programming power      | Full general-purpose language     | Specialized for data/statistics   |
-| IDEs                   | VS Code, PyCharm, Jupyter         | RStudio, Jupyter                  |
+| **Primary Objective** | Data analysis and statistics  General-purpose language with strong support for data science & ML |
+| **Primary Users** | Statisticians, researchers | Programmers, developers, professionals in many fields (including researchers) |
+| **Flexibility** | Strong in statistical analysis, data visualization | Highly versatile (ML, AI, apps, web development, data science) |
+| **Learning Curve** | Steeper (requires stats knowledge, unique syntax) | Smoother, beginner-friendly, English-like syntax |
+| **Integration** | Runs locally, less focus on integration | Strong integration with apps, APIs, and web development |
+| **Task Efficiency** | Excels in statistical reporting and visualization | Faster for large-scale ML, big data, and algorithm deployment |
+| **Database Handling** | Handles large datasets, good with statistical data | Handles large datasets with superior database integration tools |
+| **IDE** | `RStudio` | `Jupyter Notebook`, `Spyder`, `IPython`, `VS Code` |
+| **Key Libraries** | `tidyverse`, `ggplot2`, `caret`, `dplyr`, `readr`, `tidymodels` | `NumPy`, `Pandas`, `SciPy`, `Scikit-Learn`, `TensorFlow`, `PyTorch`, `Seaborn`, `Matplotlib` |
+| **Strengths** | Excellent for visualization, deep statistical analysis | Easy to learn, versatile, strong ML & AI (including deeplearning) ecosystem, high speed |
+| **Weaknesses** | Slower performance, steep learning curve, fewer integrations | Weaker at graphics |
 
 ---
 
-## 🧑‍🔬 Who Uses Them?
-
-### **Python**:
-- Used by: Google, NASA, Spotify, Meta, Netflix, CERN
-- Typical domains: Remote sensing, AI, automation, climate models, web apps
-- Many open-source environmental science packages (e.g., xarray, rasterio)
-
-### **R**:
-- Used by: WHO, UN, OECD, EPA, many universities and journals
-- Dominant in: Ecology, biostatistics, social sciences, public health
-- Well-established workflows in academia and regulatory reporting
-
----
-
-## 🎉 Fun & Interesting Facts
-
-| Fun Fact                       | R                                         | Python                                     |
-|--------------------------------|-------------------------------------------|--------------------------------------------|
-| Name origin                    | First names of creators (Ross & Robert)   | Monty Python comedy troupe                 |
-| Native IDE                     | RStudio                                   | None – many options (VS Code, Jupyter)     |
-| First-class DataFrame support  | Yes, native                               | Yes, via `pandas`                          |
-| Language style                 | Functional + vectorized                   | Object-oriented + flexible scripting       |
-| Package installation           | `install.packages()`                      | `pip`, `conda`                             |
-| Community focus                | Academia, statistics                      | Industry, software, ML                     |
-
----
-
-## 🌍 Popularity & Ecosystem
-
-- **Python**:
-  - #1 language globally in 2024 (TIOBE, Stack Overflow)
-  - Over **10 million** users worldwide
-  - 350,000+ packages on [PyPI](https://pypi.org)
-
-- **R**:
-  - Top 2 in data science/statistics
-  - Over **2.5 million** users (mainly in science and gov)
-  - 19,000+ packages on [CRAN](https://cran.r-project.org/web/packages/)
-
----
-
-## 📚 Recommendations for This Course
-
-Choose **R** if:
-- You come from a statistics, ecology, or social science background
-- You prefer built-in stats models and beautiful visualizations
-- You like the idea of Shiny apps or academic publishing
-
-Choose **Python** if:
-- You want a language that works across domains (web, automation, ML)
-- You’re interested in programming beyond data analysis
-- You want to dive into AI, APIs, and earth observation data tools
-
----
 ## What others think: Python or R?
 
 **Videos**
+
+<img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**Aaron Oliver**: *R vs Python | Which should you learn in 2025?*](https://www.youtube.com/watch?v=JAEs5IAhAYY&ab_channel=AaronOliver)
 
 <img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**RichardOnData**: *R or Python: Which Should You Learn in 2024?*](https://www.youtube.com/watch?v=AexVDfAueGQ)
 
@@ -153,156 +81,4 @@ Choose **Python** if:
 <img alt="Dataquest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTm75k-qho345hw1Ccc_0FgCl7pxT6FoK6w&s" width="15" /> [**Vik Paruchuri**: *R vs Python for Data Analysis — An Objective Comparison*](https://www.dataquest.io/blog/python-vs-r/)
 
 
-
-
-
-
-
-## 📎 References
-
-- [R Project History](https://www.r-project.org/about.html)
-- [Python History](https://www.python.org/doc/essays/blurb/)
-- [Stack Overflow Developer Survey 2024](https://insights.stackoverflow.com/survey)
-- [TIOBE Index](https://www.tiobe.com/tiobe-index/)
-- [CRAN Package Index](https://cran.r-project.org/web/packages/)
-- [PyPI Stats](https://pypi.org)
-
----
-
-> 🧑‍🏫 *In this course, we use Jupyter Notebooks as a shared platform. You can work with either language — we will guide you through setting up both!*
-
-
-# 🛠️ Setting Up Your Tools: IDEs, Environments, and Notebooks
-
-Once you've chosen between **R** and **Python**, it's time to set up your development tools. This guide will walk you through:
-
-- What is an IDE?
-- What is an environment and why it matters
-- What is a kernel?
-- How to set up Anaconda environments
-- How to use Jupyter Notebooks (with both R and Python)
-- Using Google Colab (for those who don’t want to install anything)
-
----
-
-## 💻 What Is an IDE?
-
-**IDE** stands for **Integrated Development Environment**. It’s a software application that makes coding easier by combining:
-
-- A code editor
-- A debugger
-- A terminal or console
-- File management tools
-- Package management (in some cases)
-
-### Common IDEs:
-| Language | IDE | Link |
-|---------|-----|------|
-| Python | [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/) | Fast, extensible, modern |
-| R | [RStudio](https://posit.co/download/rstudio-desktop/) | Tailored for R scripting, modeling, and reporting |
-| Both | [JupyterLab](https://jupyter.org/), [Rodeo](https://rodeo.yhat.com/) | Notebook-based environments |
-
----
-
-## 🧪 What Is an Environment?
-
-An **environment** is a self-contained workspace with:
-
-- A specific version of a programming language
-- A set of libraries or packages
-- Its own interpreter or kernel
-
-### Why use environments?
-- Prevents **version conflicts** between projects
-- Keeps your machine organized
-- Essential for reproducibility and collaboration
-
-We recommend using **[Anaconda](https://www.anaconda.com/)** to manage environments for this course.
-
----
-
-## ⚙️ Creating Environments with Anaconda
-
-### 🔹 For Python:
-
-```bash
-conda create -n dataenv_python python=3.11
-conda activate dataenv_python
-conda install jupyter pandas matplotlib seaborn scikit-learn
-```
-
-### 🔹 For R:
-
-```bash
-conda create -n dataenv_r r-essentials r-base
-conda activate dataenv_r
-conda install -c r r-irkernel
-```
-
-**Tip:** Use the Anaconda Navigator UI if you’re not comfortable with the command line.
-
----
-
-## 🧠 What Is a Kernel?
-
-A **kernel** is the computational engine behind a notebook or IDE. It interprets your code, runs it, and returns results.
-
-- In **Jupyter**, the kernel is language-specific (R or Python)
-- You can switch kernels using the toolbar in Jupyter or JupyterLab
-
----
-
-## 📃 What Are Notebooks?
-
-**Notebooks** are interactive documents where you can write code, view output, and add text or math explanations.
-
-| Tool | Notebook Format | Language |
-|------|------------------|----------|
-| Jupyter Notebook | `.ipynb` | Python, R, Julia, etc. |
-| R Markdown | `.Rmd` | R |
-
-> 📌 In this course, **Jupyter Notebooks** will be the standard for both R and Python. You’re free to convert `.ipynb` notebooks to `.Rmd` if needed.
-
----
-
-## 🧪 How to Launch Jupyter Notebook
-
-### 1. Activate your environment:
-
-```bash
-conda activate dataenv_python   # or dataenv_r
-```
-
-### 2. Launch Jupyter:
-
-```bash
-jupyter notebook
-```
-
-### 3. Create a new notebook:
-- Select your preferred kernel from the dropdown (Python 3 or R)
-
----
-
-## 🌐 Google Colab – The No-Install Option
-
-**Google Colab** is a cloud-hosted Jupyter Notebook platform. It requires no setup, just a Google account.
-
-### ✅ Pros:
-- No installation
-- GPU/TPU support
-- Easy to share
-
-### ❌ Cons:
-- Internet required
-- Not ideal for R (requires workaround)
-- Files are temporary unless saved to Drive
-
-### 🔹 Getting Started:
-
-1. Go to [colab.research.google.com](https://colab.research.google.com)
-2. Choose “New Notebook”
-3. To enable R, go to `Runtime > Change Runtime Type > R`
-
-> 📍 You may need to install R packages manually each time, since Colab resets your environment on restart.
 
