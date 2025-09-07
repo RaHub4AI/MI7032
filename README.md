@@ -18,7 +18,7 @@ By the end of the course, you will be able to:
 - Use **data visualization** techniques to clearly communicate results.
 - Apply methods to real environmental research problems.
 ---
-## Course forum
+#### Course forum
 Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
 ---
 ## Attendance
