@@ -3,7 +3,6 @@
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    axisFormat  %d %b
     excludes    weekends
 
     section Lectures
