@@ -19,6 +19,7 @@ By the end of the course, you will be able to:
 - Apply methods to real environmental research problems.
 ---
 ### Course forum
+
 Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
 ---
 ## Attendance
