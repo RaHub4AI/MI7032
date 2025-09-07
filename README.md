@@ -17,29 +17,24 @@ By the end of the course, you will be able to:
 - Perform **descriptive statistics**, **hypothesis testing**, and **regression analysis** in R and/or Python.
 - Use **data visualization** techniques to clearly communicate results.
 - Apply methods to real environmental research problems.
-
 ---
 ## Course forum
 Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
-
----
-## Grading requirements
-- Part 1 (5 ECTS): assessed via homeworks (4 in total)
-- Part 2 (2.5 ECTS): Assessed via take-home exam
-
-Grading scale: A, B, C, D, E, Fx, F
-
 ---
 ## Attendance
 Attendance is not compulsory. But we encourage students to participate physically if there is a possibility.
 
----
 ## Deadlines
 All deadlines in this course are **strict**. Submissions are timestamped automatically:  
 - Even being **1 minute late** counts as **1 full late day**.  
 - Each late day reduces the assignment score by **10% of the maximum points**.  
   - Example: if a homework is worth 10 points, the penalty is **–1 point per late day**.
- 
+
+## Grading requirements
+- Part 1 (5 ECTS): assessed via homeworks (4 in total)
+- Part 2 (2.5 ECTS): Assessed via take-home exam
+
+Grading scale: A, B, C, D, E, Fx, F
 ---
 ## Academic Integrity & Use of Generative Tools
 All homework submissions are **checked for plagiarism**.  
@@ -52,5 +47,5 @@ You may be tempted to use **ChatGPT or other generative AI tools** to help with 
 **Responsibility:** If you use generative models, it is your responsibility to prevent these risks. Submitted text and code will be checked for **logical errors, misconceptions, and fabricated content**.  
 
 For the official policy on the use of AI tools and plagiarism, see:
-- [Stockholm University’s research integrity and ethics policy]([ttps://www.su.se/en/about-su/policies/academic-integrityh](https://medarbetare.su.se/en/our-su/governance/rules--regulations/research/stockholm-universitys-research-integrity-and-ethics-policy))
+- [Stockholm University’s research integrity and ethics policy](https://medarbetare.su.se/en/our-su/governance/rules--regulations/research/stockholm-universitys-research-integrity-and-ethics-policy)
 - [Guidelines on using AI-powered chatbots in education and research](https://medarbetare.su.se/en/our-su/communicate-su/communication-support/guidelines-on-using-ai-powered-chatbots-in-education-and-research)
