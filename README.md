@@ -22,6 +22,7 @@ By the end of the course, you will be able to:
 
 Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
 
+
 ### Attendance
 Attendance is not compulsory. But we encourage students to participate physically if there is a possibility.
 
