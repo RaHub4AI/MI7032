@@ -1,7 +1,8 @@
 # Data Analysis: Tools for Environmental Scientists (MI7032)  
 **Stockholm University – Autumn 2025 | 7.5 ECTS**  
-**Course dates:** 2 Oct 2025 – 2 Nov 2025 
+**Course dates:** 2 Oct 2025–2 Nov 2025 
 [**Schedule**](./Schedule.md)
+
 [**Official Webpage**](https://utbildning.su.se/english/education/course-catalogue/mi/mi7032)
 
 ---
@@ -18,16 +19,11 @@ By the end of the course, you will be able to:
 - Apply methods to real environmental research problems.
 
 ---
+## Course forum
+Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
 
-## 📝 Syllabus & Assessment
-**Course Code:** MI7032  
-**Level:** Advanced (A1N)  
-**Assessment:**
-- **Part 1 (5 ECTS):** Data Analysis Tools – assessed via lab reports.
-- **Part 2 (2.5 ECTS):** Problem Solving – assessed via take-home exam.
-- Grading scale: A, B, C, D, E, Fx, F.
-
-For full syllabus details, see the [official course page]([https://www.su.se](https://albatross.it.su.se/api/education/educationplan/pdf/MI7032/HT2025)).
-
-
-
+---
+## Grading requirements
+- Part 1 (5 ECTS): assessed via homeworks (4 in total)
+- Part 2 (2.5 ECTS): Assessed via take-home exam
+Grading scale: A, B, C, D, E, Fx, F.
