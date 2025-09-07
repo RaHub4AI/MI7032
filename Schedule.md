@@ -27,7 +27,9 @@ gantt
 
     section Homeworks
     HW1  :crit, hw1, 2025-10-06, 4d  
-    HW1  :milestone, assing1, 2025-10-09, 0.5d 
+    HW2  :crit, hw2, 2025-10-09, 7d
+    HW3  :crit, hw3, 2025-10-16, 6d
+    HW4  :crit, hw4, 2025-10-22, 5d 
 
     section Take-Home Exam
 
