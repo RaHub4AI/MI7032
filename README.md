@@ -1,4 +1,4 @@
-# Data Analysis: Tools for Environmental Scientists (MI7032) <img width="80" align="right" alt="course_logo" src="https://github.com/user-attachments/assets/cd2ccc01-5957-4f81-bd8a-3955a9bfde50" />
+# Data Analysis: Tools for Environmental Scientists (MI7032) <img width="250" align="right" alt="course_logo" src="https://github.com/user-attachments/assets/cd2ccc01-5957-4f81-bd8a-3955a9bfde50" />
 **Stockholm University – Autumn 2025 | 7.5 ECTS**  
 **Course dates:** 2 Oct 2025–2 Nov 2025 
 [**Schedule**](./Schedule.md)
