@@ -50,7 +50,7 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 | **Primary Objective** | Data analysis and statistics | General-purpose language with strong support for data science & ML |
 | **Primary Users** | Statisticians, researchers | Programmers, developers, professionals in many fields (including researchers) |
 | **Flexibility** | Strong in statistical analysis, data visualization | Highly versatile (ML, AI, apps, web development, data science) |
-| **Learning Curve** | Steeper (requires stats knowledge, unique syntax) | Smoother, beginner-friendly, English-like syntax |
+| **Learning Curve** | Steeper (requires stats knowledge, unique syntax<sup>1</sup>	) | Smoother, beginner-friendly, English-like syntax<sup>1</sup>	 |
 | **Integration** | Runs locally, less focus on integration | Strong integration with apps, APIs, and web development |
 | **Task Efficiency** | Excels in statistical reporting and visualization | Faster for large-scale ML, big data, and algorithm deployment |
 | **Database Handling** | Handles large datasets, good with statistical data | Handles large datasets with superior database integration tools |
@@ -58,6 +58,8 @@ At a minimum, aim to **learn the one most common in your subfield**. You’ll ge
 | **Key Libraries** | `tidyverse`, `ggplot2`, `caret`, `dplyr`, `readr`, `tidymodels` | `NumPy`, `Pandas`, `SciPy`, `Scikit-Learn`, `TensorFlow`, `PyTorch`, `Seaborn`, `Matplotlib` |
 | **Strengths** | Excellent for visualization, deep statistical analysis | Easy to learn, versatile, strong ML & AI (including deeplearning) ecosystem, high speed |
 | **Weaknesses** | Slower performance, steep learning curve, fewer integrations | Weaker at graphics |
+
+><sup>1</sup>Python is known for its clean and consistent syntax, supported by the official [PEP 8 style guide](https://peps.python.org/pep-0008/), which most developers follow. R, in contrast, does not have a single official style guide. However, there are community efforts to encourage consistency, such as the [Google R Style Guide](https://google.github.io/styleguide/Rguide.html) and [Hadley Wickham’s R Style Guide](http://adv-r.had.co.nz/Style.html#undefined).
 
 ---
 
