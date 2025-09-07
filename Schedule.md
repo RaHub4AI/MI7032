@@ -4,7 +4,7 @@
 gantt
     dateFormat  YYYY-MM-DD
     excludes    weekends
-    axisFormat %H
+
 
     section Lectures
     Introduction to Environmental Data Science                                :active, a1, 2025-10-02, 1d
@@ -26,10 +26,10 @@ gantt
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
     section Homeworks
-    
+    HW1  :crit, hw1 2025-10-06, 4d  
+    HW1  :milestone, 2025-10-09  
 
-
-    section Take-home Exam
+    section Take-Home Exam
 
     
 
