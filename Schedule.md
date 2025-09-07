@@ -25,12 +25,14 @@ gantt
     Unsupervised Learning                                                     :a17, 2025-10-23, 0.5d
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
-    click a1 href "https://mermaidjs.github.io/"
     section Homeworks
     HW1  :crit, hw1, 2025-10-06, 4d  
     HW2  :crit, hw2, 2025-10-09, 7d
     HW3  :crit, hw3, 2025-10-16, 6d
     HW4  :crit, hw4, 2025-10-22, 5d 
+
+    click hw1 href "https://github.com/RaHub4AI/MI7032/tree/main/Homeworks"
+
 
     section Take-Home Exam
     Exam    :crit, ex, 2025-10-27, 5d
