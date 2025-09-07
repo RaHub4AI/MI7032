@@ -19,6 +19,9 @@ By the end of the course, you will be able to:
 
 # Schedule and Materials
 
+
+
+
 | Date | Time | Activity | Description |
 | :---: | :---: | :---: | :---|
 | Thu 2025-10-02 | 09:00–12:00 | Introduction  | Introduction to Environmental Data Science     |
@@ -31,7 +34,7 @@ By the end of the course, you will be able to:
 | Tue 2025-10-07 | 13:00–17:00 | Self-study    | [HW1_Python](./Homeworks/HW1_Python.ipynb); [HW1_R](./Homeworks/HW1_R.ipynb) |
 | Wed 2025-10-08 | 09:00–12:00 | Lecture       | [From Distributions to Statistical Thinking ](./Descriptive_Statistics_and_Data_Visualization)   |
 | Wed 2025-10-08 | 13:00–17:00 | Self-study    | [HW1_Python](./Homeworks/HW1_Python.ipynb); [HW1_R](./Homeworks/HW1_R.ipynb) |
-| Thu 2025-10-09 | 09:00–12:00 | Lecture       | Hypothesis Testing I (*t*-test)                 |
+| Thu 2025-10-09 | 09:00–12:00 | Lecture       | [Hypothesis Testing I (*t*-test)]                 |
 | Thu 2025-10-09 | 13:00–17:00 | Self-study    | [HW2_Python](./Homeworks/HW2_Python.ipynb); [HW2_R](./Homeworks/HW2_R.ipynb) |
 | Thu 2025-10-09 | 17:00 | <span style="color:red">Assignment</span> | HW I Submission Deadline: [HW1_Python](./Homeworks/HW1_Python.ipynb); [HW1_R](./Homeworks/HW1_R.ipynb) |
 | Fri 2025-10-10 | 09:00–12:00 | Lecture       | [Hypothesis Testing I (*F*-test, Testing Normality)](./Hypothesis_Testing) |
