@@ -4,6 +4,7 @@
 gantt
     dateFormat  YYYY-MM-DD
     excludes    weekends
+    axisFormat %H
 
     section Lectures
     Introduction to Environmental Data Science                                :active, a1, 2025-10-02, 1d
