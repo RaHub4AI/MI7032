@@ -4,9 +4,10 @@
 gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d %b
+    excludes    weekends
 
     section Lectures
-    Introduction to Environmental Data Science                                :a1, 2025-10-02, 0.5d
+    Introduction to Environmental Data Science                                :active, a1, 2025-10-02, 0.5d
     Getting Started with R and Python                                         :a2, after a1, 0.5d
     Practical Workshop: Data Science Tools in R and Python                    :a3, 2025-10-03, 1d
     Descriptive Statistics and Exploratory Data Analysis)                     :a4, 2025-10-06, 0.5d
@@ -26,12 +27,10 @@ gantt
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
     section Homeworks
+    
+
 
     section Take-home Exam
-
-
-
-
 
     
 
