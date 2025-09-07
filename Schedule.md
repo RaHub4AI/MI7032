@@ -31,9 +31,6 @@ gantt
     HW3  :crit, hw3, 2025-10-16, 6d
     HW4  :crit, hw4, 2025-10-22, 5d 
 
-    click hw1 href "https://github.com/RaHub4AI/MI7032/tree/main/Homeworks"
-
-
     section Take-Home Exam
     Exam    :crit, ex, 2025-10-27, 5d
     Mid-Exam Presentations    :qa, 2025-10-29, 1d
