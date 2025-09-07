@@ -32,6 +32,7 @@ gantt
     HW4  :crit, hw4, 2025-10-22, 5d 
 
     section Take-Home Exam
-
+    Exam    :crit, ex, 2025-10-27, 5d
+    Mid-Exam Presentations    :qa, 2025-10-29, 1d
     
 
