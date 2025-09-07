@@ -26,4 +26,31 @@ Forum and discussions will be held in Discord. Join the server: https://discord.
 ## Grading requirements
 - Part 1 (5 ECTS): assessed via homeworks (4 in total)
 - Part 2 (2.5 ECTS): Assessed via take-home exam
-Grading scale: A, B, C, D, E, Fx, F.
+
+Grading scale: A, B, C, D, E, Fx, F
+
+---
+## Attendance
+Attendance is not compulsory. But we encourage students to participate physically if there is a possibility.
+
+---
+## Deadlines
+All deadlines in this course are **strict**. Submissions are timestamped automatically:  
+- Even being **1 minute late** counts as **1 full late day**.  
+- Each late day reduces the assignment score by **10% of the maximum points**.  
+  - Example: if a homework is worth 10 points, the penalty is **–1 point per late day**.
+ 
+---
+## Academic Integrity & Use of Generative Tools
+All homework submissions are **checked for plagiarism**.  
+You may be tempted to use **ChatGPT or other generative AI tools** to help with assignments. This is reasonable in 2025; however, please note the following important caveats:
+1. **Hallucinations:** LLMs can invent terms, formulas, algorithms, code, or calculations due to their auto-regressive nature.  
+2. **Confident errors:** They often mix up concepts and present them confidently. Always verify any claims or ideas against independent sources (e.g., lecture slides or recommended readings).  
+3. **Memory limitations:** Free versions may have limited memory, so the model might forget or ignore earlier parts of your conversation.  
+4. **Code vs. understanding:** Generative AI can provide code, but blindly copying it will **not help you learn**. Use AI assistants to **debug or clarify**, not to solve exercises from scratch. You will learn much more by working independently.
+
+**Responsibility:** If you use generative models, it is your responsibility to prevent these risks. Submitted text and code will be checked for **logical errors, misconceptions, and fabricated content**.  
+
+For the official policy on the use of AI tools and plagiarism, see:
+- [Stockholm University’s research integrity and ethics policy]([ttps://www.su.se/en/about-su/policies/academic-integrityh](https://medarbetare.su.se/en/our-su/governance/rules--regulations/research/stockholm-universitys-research-integrity-and-ethics-policy))
+- [Guidelines on using AI-powered chatbots in education and research](https://medarbetare.su.se/en/our-su/communicate-su/communication-support/guidelines-on-using-ai-powered-chatbots-in-education-and-research)
