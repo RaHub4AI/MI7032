@@ -29,3 +29,5 @@ Jupyter Notebooks are interactive documents that combine **code, text, equations
 <img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**TensorFlow**: *Get started with Google Colaboratory (Coding TensorFlow)*](https://www.youtube.com/watch?v=inN8seMm7UI&ab_channel=TensorFlow)
 
 <img alt="YT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="15" /> [**TensorFlow**: *Google Colab features you may have missed*](https://www.youtube.com/watch?v=rNgswRZ2C1Y)
+
+[User-friendly Markdown syntax guide](https://markdownguide.offshoot.io/basic-syntax/)
