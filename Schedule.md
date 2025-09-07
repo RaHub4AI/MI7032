@@ -26,7 +26,7 @@ gantt
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
     section Homeworks
-    HW1  :crit, hw1 2025-10-06, 4d  
+    HW1  :crit, hw1, 2025-10-06, 4d  
     HW1  :milestone, assing1, 2025-10-09, 0.5d 
 
     section Take-Home Exam
