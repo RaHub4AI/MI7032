@@ -2,6 +2,7 @@
 
 In this course, we will use [`Jupyter notebooks`](https://jupyter.org/) in [`Google Colaboratory`](https://colab.research.google.com/) as the default environment for both `R` and `Python`.  
 If you prefer to run notebooks locally on your own computer, you are welcome to do so. During the first workshop, we will demonstrate how to set up local environments.
+
 $\color{gold}{\textsf{However, please note that if you choose to work locally, you are fully responsible for resolving any installation problems,}}$
 $\color{gold}{\textsf{dependency issues, or package conflicts that may occur.}}$
 
