@@ -22,7 +22,7 @@ By the end of the course, you will be able to:
 ---
 ### Course forum
 
-Forum and discussions will be held in Discord. Join the server: https://discord.gg/Rg2gbb86
+Forum and discussions will be held in Discord. Join the server: [https://discord.gg/Rg2gbb86](https://discord.gg/pXSfNFhEg6)
 
 
 ### Attendance
