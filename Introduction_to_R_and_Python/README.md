@@ -1,4 +1,4 @@
-# <img width="4831" height="1350" alt="BANNER" src="https://github.com/user-attachments/assets/58f4cd8b-ea72-47c8-92ca-6304c3d325ca" />
+# <img width="4831" height="1350" alt="BANNER" src="https://github.com/RaHub4AI/MI7032/blob/main/Pictures/banner.png" />
 ### R or Python?
 
 If you want opinions, the internet is full of blog posts, videos, and forum threads debating which language to use for data science: `R` or `Python` (a few curated links: [What others think: Python or R?](#what-others-think-python-or-r))
