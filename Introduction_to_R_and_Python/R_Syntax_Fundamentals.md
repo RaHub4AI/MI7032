@@ -42,6 +42,7 @@ sentence1 <- "It's a sunny day"   # easier with double quotes outside
 sentence2 <- 'He said: "Welcome to R!"'   # easier with single quotes outside
 ```
 So in practice, `" "` is more common in R code, but `' '` works just as well.
+
 ---
 
 ## Variables and Their Assignment
