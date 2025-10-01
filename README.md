@@ -1,4 +1,4 @@
-# Data Analysis: Tools for Environmental Scientists <img width="300" align="right"  alt="course_logo_transparent" src="./Pictures/logo_github.png" />
+# Data Analysis: Tools for Environmental Scientists <img width="300" align="right"  alt="course_logo_transparent" src="./Pictures/logo_GitHub_transparent.png" />
 ### *MI7032*  
 \
 **Stockholm University – Autumn 2025 | 7.5 ECTS**  
