@@ -95,7 +95,7 @@ b <- 8+9
 
 ## Reserved Words in R
 
-R has a set of reserved (words)[https://rdrr.io/r/base/Reserved.html] that cannot be used as variable or function names.
+R has a set of [reserved words](https://rdrr.io/r/base/Reserved.html) that cannot be used as variable or function names.
 These include:
 `if`, `else`, `repeat`, `while`, `function`, `for`, `in`, `next`, `break`, `TRUE`, `FALSE`, `NULL`, `Inf`, `NaN`, `NA`, `NA_integer_`, `NA_real_`, `NA_complex_`, `NA_character_`, `...`, and `..1`, `..2` etc.
 The special argument `...` (ellipsis) allows you to pass an arbitrary number of arguments into a function.  
