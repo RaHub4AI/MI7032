@@ -7,9 +7,9 @@ gantt
 
 
     section Lectures
-    Introduction to Environmental Data Science                                :active, a1, 2025-10-02, 1d
+    Introduction to Environmental Data Science                                :a1, 2025-10-02, 1d
     Data Science Tools in R and Python                                        :a3, 2025-10-03, 1d
-    Descriptive Statistics and Exploratory Data Analysis)                     :a4, 2025-10-06, 0.5d
+    Descriptive Statistics and Exploratory Data Analysis)                     :acitve, a4, 2025-10-06, 0.5d
     Data Distributions                                                        :a5, 2025-10-07, 0.5d
     From Distributions to Statistical Thinking                                :a6, 2025-10-08, 0.5d
     Hypothesis Testing I (t-test)                                             :a7, 2025-10-09, 0.5d
@@ -26,7 +26,7 @@ gantt
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
     section Homeworks
-    HW1  :crit, hw1, 2025-10-06, 4d  
+    HW1  :acitve, crit, hw1, 2025-10-06, 4d  
     HW2  :crit, hw2, 2025-10-09, 7d
     HW3  :crit, hw3, 2025-10-16, 6d
     HW4  :crit, hw4, 2025-10-22, 5d 
