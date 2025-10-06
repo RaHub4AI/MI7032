@@ -15,8 +15,8 @@ Here are some materials you can read to deepen your understanding of the covered
 - **How *Not* to Visualize Data**
   
   For fun (and to learn what to avoid), check this **Wikipedia article** on misleading or confusing charts:
-  [https://en.wikipedia.org/wiki/Misleading_graph](https://en.wikipedia.org/wiki/Misleading_graph)
-  It shows classic examples of how visual design choices can distort information — useful for critical data literacy!
+  [https://en.wikipedia.org/wiki/Misleading_graph](https://en.wikipedia.org/wiki/Misleading_graph)\
+  It shows classic examples of how visual design choices can distort information
 
 - Moments of Data
   
