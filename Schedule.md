@@ -13,8 +13,8 @@ gantt
     Data Distributions                                                        :done, a5, 2025-10-07, 0.5d
     From Distributions to Statistical Thinking                                :done, a6, 2025-10-08, 0.5d
     Hypothesis Testing I (t-test)                                             :done, a7, 2025-10-09, 0.5d
-    Hypothesis Testing I (F-test, Testing Normality)                          :active, a8, 2025-10-10, 0.5d
-    Hypothesis Testing II (Data Transformations, Non-Parametric Tests)    	  :a9, 2025-10-13, 0.5d
+    Hypothesis Testing I (F-test, Testing Normality)                          :done, a8, 2025-10-10, 0.5d
+    Hypothesis Testing II (Data Transformations, Non-Parametric Tests)    	  :active, 2025-10-13, 0.5d
     ANOVA, Multiple Testing and p-hacking                                     :a10, 2025-10-14, 0.5d
     Introduction to Longitudinal Data Analysis and Repeated Measures ANOVA    :a11, 2025-10-15, 0.5d
     Covariance & Correlation                                                  :a12, 2025-10-16, 0.5d
@@ -26,8 +26,8 @@ gantt
     Performance Metrics                                                       :a18, 2025-10-24, 0.5d
 
     section Homeworks
-    HW1  :active, crit, hw1, 2025-10-06, 5d  
-    HW2  :crit, hw2, 2025-10-13, 4d
+    HW1  :done, crit, hw1, 2025-10-06, 5d  
+    HW2  :active, crit, hw2, 2025-10-13, 4d
     HW3  :crit, hw3, 2025-10-16, 6d
     HW4  :crit, hw4, 2025-10-22, 5d 
 
